@@ -1,5 +1,7 @@
 package cn.ljw.user.action;
 
+import org.omg.CORBA.PUBLIC_MEMBER;
+
 public class Student {
 	public String Push(){
 		return "Lian";
@@ -14,7 +16,7 @@ public class Student {
 	}
 	
 	public void Update(){
-		
+		System.out.println();
 	}
 
 	
