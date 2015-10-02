@@ -12,5 +12,9 @@ public class Student {
 	public void Delete(){
 		
 	}
+	
+	public void Update(){
+		
+	}
 
 }
