@@ -8,5 +8,9 @@ public class Student {
 	public void Select(){
 		
 	}
+	
+	public void Delete(){
+		
+	}
 
 }
