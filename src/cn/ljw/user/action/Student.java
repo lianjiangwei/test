@@ -10,7 +10,7 @@ public class Student {
 	}
 	
 	public void Delete(){
-		
+		System.out.println("");
 	}
 
 }
