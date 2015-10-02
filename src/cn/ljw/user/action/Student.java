@@ -9,7 +9,7 @@ public class Student {
 	}
 	
 	public void Select(){
-		
+		System.out.println();
 	}
 	
 	public void Delete(){
@@ -27,6 +27,6 @@ public class Student {
 
 	
 	public void asdf(){
-	  int bb=4;
+			System.out.println();
 	}
 }
