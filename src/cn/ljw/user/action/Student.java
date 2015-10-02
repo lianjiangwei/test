@@ -10,11 +10,15 @@ public class Student {
 	}
 	
 	public void Delete(){
-		
+		System.out.println("");
 	}
 	
 	public void Update(){
 		
 	}
 
+	
+	public void asdf(){
+		
+	}
 }
