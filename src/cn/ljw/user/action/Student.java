@@ -28,6 +28,5 @@ public class Student {
 	
 	public void asdf(){
 	  int bb=4;
-		
 	}
 }
