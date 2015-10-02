@@ -13,4 +13,8 @@ public class Student {
 		System.out.println("");
 	}
 
+	
+	public void asdf(){
+		
+	}
 }
