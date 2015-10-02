@@ -1,8 +1,6 @@
 package cn.ljw.user.action;
 
 
-
-
 public class Student {
 	public String Push(){
 		return "Lian";
@@ -26,8 +24,10 @@ public class Student {
 	}
 
 	
+
 	public void asdf(){
 			System.out.println();
 			System.out.println();
 	}
+
 }
