@@ -14,7 +14,7 @@ public class Student {
 	}
 	
 	public void Update(){
-		
+		int a=3;
 	}
 
 	
