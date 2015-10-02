@@ -25,6 +25,6 @@ public class Student {
 
 	
 	public void asdf(){
-		
+		int anser=00;
 	}
 }
